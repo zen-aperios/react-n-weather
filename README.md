@@ -5,6 +5,7 @@ weather-app-react-native
 This was initially assigned as an entrance for a job, to learn native. 
 but now since i enjoyed playing with the api and native layouts im going to expand on this project in due time. 
 
+
 thanks for all the online resources towards the development of this application.
 
 A Weather app built using
