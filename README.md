@@ -7,6 +7,8 @@ but now since i enjoyed playing with the api and native layouts im going to expa
 
 A Weather app built using
 
-React Native
-Open Weather Map API
-Expo Vector Icons
+* React Native
+
+* Open Weather Map API
+
+* Expo Vector Icons
