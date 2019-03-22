@@ -1,6 +1,6 @@
 weather-app-react-native
 
-# a minimal app weather made from guides and online resources. 
+# A minimalistic weather app, made from guides and online resources. 
 
 This was initially assigned as an entrance for a job, to learn native. 
 but now since i enjoyed playing with the api and native layouts im going to expand on this project in due time. 
