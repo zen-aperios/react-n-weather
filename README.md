@@ -1,6 +1,9 @@
 weather-app-react-native
 
-# a minimal app made from guides and is an ongoing project of mine now, im going to add improvements, components in coming time. this was initially made for a job entrance project. 
+# a minimal app weather made from guides and online resources. 
+
+This was initially assigned as an entrance for a job, to learn native. 
+but now since i enjoyed playing with the api and native layouts im going to expand on this project in due time. 
 
 A Weather app built using
 
